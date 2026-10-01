@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//BatchListActivity
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
