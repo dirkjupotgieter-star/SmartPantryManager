@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//MainActivity
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.Cursor;
