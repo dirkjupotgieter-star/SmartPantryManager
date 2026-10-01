@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//AddIngredientActivity
 import android.app.DatePickerDialog;
 import android.os.Bundle;
 import android.view.View;
